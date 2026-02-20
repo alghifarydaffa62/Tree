@@ -17,7 +17,6 @@ export default function Dashboard() {
     return(
         <div>
             <h1>WELCOME TO DASHBOARD {address?.slice(0, 10)}...{address?.slice(-10)}</h1>
-            <ConnectButton showBalance={false}/>
         </div>
     )
 }
