@@ -1,3 +1,6 @@
 {
-  "schedule": "*/30 * * * * *"
+  "schedule": "*/1 * * * * *",
+  "vaultAddress": "",
+  "poolAAddress": "0x9f2f8bD9c2273569d367Da888B52D97fb17Bf394",
+  "poolBAddress": "0xd1b9329B0E26FbBa7400EB02fD2Ad706c7522650"
 }
